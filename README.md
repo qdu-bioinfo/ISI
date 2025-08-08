@@ -47,7 +47,7 @@ conda activate SCA
 pip install -r requirements.txt
 ```
 
-## Model training and testing and ISI skin status assessment
+## ISI skin status assessment
 
 Run multimodal algorithms with one click.
 
