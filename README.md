@@ -61,4 +61,4 @@ The sequence data in this study have been submitted to the Sequence Read Archive
 
 ## Contact
 
-All problems please contact Meta-Spec development team: **Xiaoquan Su**  Email: [suxq@qdu.edu.cn](mailto:suxq@qdu.edu.cn)
+All problems please contact SCA development team: **Xiaoquan Su**  Email: [suxq@qdu.edu.cn](mailto:suxq@qdu.edu.cn)
