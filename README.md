@@ -7,7 +7,7 @@
 - [Installation environment](#Installation-environment)
 - [Model training and testing and ISI skin status assessment](#Model-training-and-testing-and-ISI-skin-status-assessment)
 - [Data availability](#data-availability)
-- [Contact](#contact)
+- [Contact](#Contact)
 
 ## Introduction
 
