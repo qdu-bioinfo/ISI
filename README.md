@@ -27,17 +27,23 @@ SCA (Skin Condition Assessment) is a deep learning skin condition classification
 ## Package requirement
 
 ```
-torch >= 2.3.1
-pandas >= 2.2.2
-numpy >= 1.26.4
-scikit-learn >= 1.4.2
-seaborn >= 0.12.2
-matplotlib >= 3.7.2
+torch
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+torchvision
+torchaudio
+openpyxl
+xgboost
 ```
 
 ## Installation environment
 
 ```
+conda create --name SCA python=3.8
+conda activate SCA
 pip install -r requirements.txt
 ```
 
