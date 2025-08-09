@@ -11,7 +11,7 @@
 
 ## Introduction
 
-SCA (Skin Condition Assessment) is a deep learning skin condition classification tool that can detect human skin conditions by integrating genotype data (microbiome characteristics), phenotypic data (host variables), and image data (facial features).
+A novel Ideal Skin Index (ISI) that fuses multimodal data of facial images, microbiome signatures, and host skin phenotypic characteristics through a deep learning-based framework enables a more comprehensive and quantitative assessment of facial skin conditions.
 
 - "data" folder : contains multimodal data
   - microbiome.csv : microbiome features
