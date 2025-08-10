@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ## ISI skin status assessment
 
-Run multimodal algorithms with one click.
+Run a multimodal algorithm to get a skin assessment score.
 
 ```
 python main.py
