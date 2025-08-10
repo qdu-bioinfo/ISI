@@ -11,7 +11,7 @@
 
 ## Introduction
 
-A novel Ideal Skin Index (ISI) that fuses multimodal data of facial images, microbiome signatures, and host skin phenotypic characteristics through a deep learning-based framework enables a more comprehensive and quantitative assessment of facial skin conditions.
+The skin microecology plays a vital role in maintaining cutaneous health and is intricately linked to host skin phenotypes. However, there remains a lack of precise and quantitative biomarkers for evaluating skin health conditions, making it challenging to identify individuals at potential risk of microecological imbalance. To enable a more holistic and quantitative assessment of facial skin status, we developed a novel Ideal Skin Index (ISI) that fuses multi-modal data of facial images, microbiome profiles, and host skin phenotype features by a deep learning-based framework. Importantly, ISI identified individuals with outwardly healthy facial appearance but significant underlying microbial dysbiosis conditions that conventional diagnostic approaches often overlook. This work enables the detection of such hidden risks, offering new avenues for individualized facial skin health assessment, precision dermatology, and microbiome-informed aesthetic interventions.
 
 - "data" folder : contains multimodal data
   - microbiome.csv : microbiome features
@@ -61,4 +61,4 @@ The sequence data in this study have been submitted to the Sequence Read Archive
 
 ## Contact
 
-All problems please contact SCA development team: **Xiaoquan Su**  Email: [suxq@qdu.edu.cn](mailto:suxq@qdu.edu.cn)
+All problems please contact ISI development team: **Xiaoquan Su**  Email: [suxq@qdu.edu.cn](mailto:suxq@qdu.edu.cn)
