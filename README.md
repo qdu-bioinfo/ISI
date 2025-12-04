@@ -57,7 +57,7 @@ python main.py
 
 ## Data availability
 
-The sequence data in this study have been submitted to the Sequence Read Archive (https://www.ncbi.nlm.nih.gov/sra) and can be accessed through the BioProject numbers PRJNA750340. For the original host information table, see Supplementary_Material.xlsx
+The sequence data in this study have been submitted to the Sequence Read Archive (https://www.ncbi.nlm.nih.gov/sra) and can be accessed through the BioProject numbers PRJNA750340. For the original host information table, see https://github.com/qdu-bioinfo/MSI/tree/main/supplementary
 
 ## Contact
 
