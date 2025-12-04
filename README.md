@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [Package requirement](#package-requirement)
 - [Installation environment](#Installation-environment)
-- [Model training and testing and MSI skin status assessment](#Model-training-and-testing-and-MSI-skin-status-assessment)
+- [MSI skin status assessment](#MSI-skin-status-assessment)
 - [Data availability](#data-availability)
 - [Contact](#Contact)
 
